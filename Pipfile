@@ -5,6 +5,11 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+setuptools = "*"
+wheel = "*"
+twine = "*"
+sphinx = "*"
+pytest = "*"
 
 [packages]
 

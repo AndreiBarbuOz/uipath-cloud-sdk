@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="uipath-cloud",
-    version="0.0.1",
+    version="0.0.2",
     author="Andrei Barbu",
     author_email="and.barbu@gmail.com",
     description="UiPath cloud SDK",
